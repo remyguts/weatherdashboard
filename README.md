@@ -5,9 +5,9 @@
 
 This app was created to make it easier to find current weather conditions and the future weather outlook for multiple cities. 
 
-## User Story as provided
+## User Story as Provided
 
-**"As a traveler
+**"As a traveler,
 I want to see the weather outlook for multiple cities
 so that I can plan a trip accordingly"**
 
