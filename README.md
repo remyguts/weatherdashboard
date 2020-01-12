@@ -3,7 +3,7 @@
 ## Introduction
 
 
-This app was created to make it easier to find current weather conditions and the future weather outlook for multiple cities. 
+This application was created to make it easier to find current weather conditions and the future weather outlook for multiple cities. As people on the go, we depend on weather and satellite technology to keep us one step ahead of the curve.  
 
 ## User Story as Provided
 
@@ -13,6 +13,8 @@ so that I can plan a trip accordingly"**
 
 
 ![06-Server-Side-APIs-homework-demo](https://user-images.githubusercontent.com/56744605/72213970-58ade780-34ad-11ea-9bdf-f8392f0a80a0.png)
+
+
 
 ### Instructions:
 
@@ -24,7 +26,7 @@ so that I can plan a trip accordingly"**
 
 
 
-#### programs used
+#### Programs Used
 
 VIsual Studio Code
 Git Bash
