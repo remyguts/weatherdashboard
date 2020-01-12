@@ -19,9 +19,9 @@ so that I can plan a trip accordingly"**
 1. Enter name of city you would like to add a forcast for.
 2. Name of city will appear in list with other chosen cities.
 3. Weather, and temperature will appear in real-time.
-4. on bottum, 5 day forcast will also apear.
+4. On bottom, 5 day forcast will also apear.
 
-[Link to Repository](https://github.com/remyguts/weatherdashboard)
+
 
 
 #### programs used
@@ -32,8 +32,13 @@ Weather APIS
 Git Hub Repositories
 Bootstrap
 
+###### Class Credits
+Spencer Shadley
+Elray Belmonti
+Dane Shrewsbury
 
 
+[Link to Repository](https://github.com/remyguts/weatherdashboard)
 
 
 
