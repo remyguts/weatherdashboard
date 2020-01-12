@@ -3,7 +3,7 @@
 ## Introduction
 
 
-This application was created to make it easier to find current weather conditions and the future weather outlook for multiple cities. As people on the go, we depend on weather and satellite technology to keep us one step ahead of the curve.  
+This application was created to make it easier to find current weather conditions and the future weather outlook for multiple cities. As people on the go, we depend on doppler and satellite technology to keep us one step ahead of the curve, and through this application, you can have direct access to real-time weather analytics.
 
 ## User Story as Provided
 
@@ -20,8 +20,9 @@ so that I can plan a trip accordingly"**
 
 1. Enter name of city you would like to add a forcast for.
 2. Name of city will appear in list with other chosen cities.
-3. Weather and temperature will appear in real-time.
-4. On bottom, 5 day forcast will also apear.
+3. Press the button with the desired city.
+4. Weather and temperature will appear in real-time.
+5. On bottom, 5 day forcast will also apear.
 
 
 
