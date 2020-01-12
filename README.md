@@ -18,7 +18,7 @@ so that I can plan a trip accordingly"**
 
 1. Enter name of city you would like to add a forcast for.
 2. Name of city will appear in list with other chosen cities.
-3. Weather, and temperature will appear in real-time.
+3. Weather and temperature will appear in real-time.
 4. On bottom, 5 day forcast will also apear.
 
 
