@@ -40,7 +40,7 @@ Dane Shrewsbury
 
 [Link to Repository](https://github.com/remyguts/weatherdashboard)
 
-
+[Link to API]https://openweathermap.org/api)
 
 
 
