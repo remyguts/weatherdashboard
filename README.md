@@ -1,4 +1,4 @@
-# Weather Dashboard App Readme
+# Weather Dashboard App Read Me
 
 ## Introduction
 
