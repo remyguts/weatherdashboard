@@ -39,13 +39,9 @@ Dane Shrewsbury
 
 
 [Link to Repository](https://github.com/remyguts/weatherdashboard)
-
 [Link to API](https://openweathermap.org/api)
-
-
-
-
-
+[Link to AYB](https://youtu.be/jQE66WA2s-A)
+[Link to RUP](https://www.realultimatepower.net/)
 
 
 
